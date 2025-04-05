@@ -12,8 +12,6 @@ API que permite consultar informações de um usuário no GitHub e listar seus r
 - CORS
 
 ## 📌 Como Instalar e Rodar 📌
-  
-```sh
 git clone https://github.com/SEU-USUARIO/github-profile-api.git
 cd github-profile-api
 npm install
